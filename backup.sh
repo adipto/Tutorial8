@@ -1,5 +1,5 @@
 #!/bin/bash
-My comment
+#My comment
 SRC="$1"
 DEST="$2"
 
